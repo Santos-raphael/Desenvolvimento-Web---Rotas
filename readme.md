@@ -32,8 +32,8 @@
 
 Os testes foram realizados no Insomnia e os prints estão na pasta `/prints`:
 
-- ![GET /tarefas](prints/Rota-Get.png)
-- ![GET /tarefas](prints/Rota-Get-UPD.png) - (Apenas a rota get atualizada com informações das tarefas)
-- ![POST /tarefas](prints/Rota-Post.png)
-- ![PUT /tarefas/:id](prints/Rota-Put.png)
-- ![DELETE /tarefas/:id](prints/Rota-Delete.png)
+- ![GET /tarefas](Rotas/prints/Rota-Get.png)
+- ![GET /tarefas](Rotas/prints/Rota-Get-UPD.png) - (Apenas a rota get atualizada com informações das tarefas)
+- ![POST /tarefas](Rotas/prints/Rota-Post.png)
+- ![PUT /tarefas/:id](Rotas/prints/Rota-Put.png)
+- ![DELETE /tarefas/:id](Rotas/prints/Rota-Delete.png)

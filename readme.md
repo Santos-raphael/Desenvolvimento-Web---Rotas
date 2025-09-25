@@ -15,7 +15,7 @@
 4. Inicie o servidor com: npm start ou node index.js
 5. Inicie o Postman ou o Insomia e use vá para Create e selecione Resquest collection após isso clique no + e selecione Add request to current collection.
 6. Para testar as rotas utilize: (http://localhost:3000/tarefas).
-7. Na rota Get utilize /tarefa ele mostrar [] pois não tem nenhuma tarefa ainda.
+7. Na rota Get utilize /tarefa ele vai mostrar [] pois não tem nenhuma tarefa ainda.
 8. Na rota Post utilize um JSON para testar:
    {
    "titulo": "Teste Tarefa",
